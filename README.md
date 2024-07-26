@@ -4,6 +4,8 @@
 Summary:
 You will learn about a typical software development lifecycle, the typical team composition and the main functions of each individual at the lifecycle stages. You will also learn the concept of decomposition and the rules for its application.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -67,7 +69,7 @@ In this project you will learn how to:
 
 ### General Rules <div id="21"></div>
 
-1. Along the way, you may feel a sense of uncertainty and a severe lack of information: that's OK. Remember, the information in the repository and on Google is always with you. So are your peers and Slack. Communicate. Search. Use common sense. Don't be afraid to make mistakes.
+1. Along the way, you may feel a sense of uncertainty and a severe lack of information: that's OK. Remember, the information in the repository and on Google is always with you. So are your peers and RocketChat. Communicate. Search. Use common sense. Don't be afraid to make mistakes.
 2. Pay attention to sources of information. Check. Think. Analyse. Compare. 
 3. Look at the text of each assignment. Read it several times. 
 4. Read the examples carefully. There may be something in them that is not explicitly stated in the task itself.
@@ -393,5 +395,3 @@ The means of representing the decomposition is at your discretion.
 There's no one right way to do a decomposition. You should always start with the goal, the needs of the user for whom you are creating the decomposition. Choose the type of decomposition based on this goal. Determine the activities based on the answers to the "Questions to Identify the Type of Decomposition". It is possible that the activities will be of different levels - at the stage of listing the activities this is normal. However, as you go on, it is important to look at the activities and rearrange them into levels according to the criteria.
 
 Make sure that the elements at the same level are equivalent, answer the same question and are selected by the same criterion. They belong to that level, not to a higher or lower one. Make several choices and choose the one that best suits your goal, needs and circumstances.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/65b90867c417f308895d8f8a/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
