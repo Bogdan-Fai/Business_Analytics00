@@ -1,16 +1,16 @@
-Hello, student of School21!😉
+Hello, School21 student! 😉
 
-To make it easier for you to navigate the material, we have prepared a list of topics that you will learn in this project.
+To help you navigate through the material, we have prepared a list of topics that you will learn in this project.
 
 We will study:
-- The life cycle of IT systems development;
+- The IT systems development life cycle;
 - Roles in the development team;
 - Identification of information sources;
 - Compiling a glossary;
 - Rules of placement, naming of created artifacts and other rules;
 - Decomposition, rules, recommendations for construction.
 
-Now, knowing what awaits you in this project, you can slowly begin to study the topics listed above.😇
+Now that you know what awaits you in this project, you can slowly begin to study the topics listed above. 😇
 
 We have also prepared a list of recommended software:
 - Microsoft Word;

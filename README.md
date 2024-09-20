@@ -110,7 +110,7 @@ And these are just roles, not individual specialists. Each role can be performed
 
 ### 2. Identifying Information Sources <div id="32"></div>
 
-There are many ways to find information about a task - we'll talk about some of them later, but there is one method that everyone should know about and start with. This is a study of the materials we can find at the beginning: legal documents, official websites, articles in the mass media, descriptions of processes, popular science videos. In the case of state bodies - a list of functions assigned by the state (these can also be found on the official website).
+There are many ways to find information about a task — we'll talk about some of them later, but there is one method that everyone should know about and start with. This is a study of the materials we can find at the beginning: legal documents, official websites, articles in the mass media, descriptions of processes, popular science videos. In the case of state bodies — a list of functions assigned by the state (these can also be found on the official website).
 
 We can't go through all the documents in a short time, so we need to create a list of information sources that can be used at any time.
 
@@ -144,11 +144,11 @@ Often, different words are used to refer to the same concept, such as "stakehold
 
 ### 4. Placement, Naming and Other Rules <div id="34"></div>
 
-In order to reduce errors due to inconsistencies and unfortunate misunderstandings, it is recommended to follow the rules for placing and naming created artefacts. Usually these rules are created by the product/project team at the beginning. If you have joined the team in the course of the work - find out these rules and follow them. If there are no such rules, develop them yourself, share them with the team members and, if agreed, follow them. 
+In order to reduce errors due to inconsistencies and unfortunate misunderstandings, it is recommended to follow the rules for placing and naming created artefacts. Usually these rules are created by the product/project team at the beginning. If you have joined the team in the course of the work — find out these rules and follow them. If there are no such rules, develop them yourself, share them with the team members and, if agreed, follow them. 
 
 Below is a version of the rules that you can use when working on projects.
 
-1. For each product (task), define a prefix - a three- or four-letter meaningful expression - and create a separate directory for each product (task) named with the prefix.
+1. For each product (task), define a prefix — a three- or four-letter meaningful expression — and create a separate directory for each product (task) named with the prefix.
 2. Place all work and project documents in the created directory. Often additional folders are created in the directory to separate documentation by type: contractual, work, project, user, etc. 
 3. Save text documents consisting of lists in .xlsx format. This makes it easier to add new attributes and properties required for your work. You can also save them in .docx format in landscape orientation.
 4. Place lists, directories on different sheets in an .xlsx file. 
@@ -172,7 +172,7 @@ P.S. Coding and placement principles may vary depending on system complexity, su
 
 Decomposition, the process of breaking the whole into parts, allows us to look at any system as being made up of separate, interrelated subsystems, which in turn can be decomposed. We apply the decomposition process in IT wherever we break down our goals, tasks, and the functions and components of the IT system itself. Decomposition can be done in many ways, and there are many types of decomposition. Here are the types of decomposition commonly used in IT systems development:
 
-1. **Functional** - structuring of functions. For example, in task 1 (Chapter IV), a barbershop client can perform actions (functions): 
+1. **Functional** — structuring of functions. For example, in task 1 (Chapter IV), a barbershop client can perform actions (functions): 
    - Register on the website;
    - View master schedule;
    - Select a master, service or time;
@@ -207,7 +207,7 @@ Each element of the decomposition is assigned a unique identifier corresponding 
 
 It is recommended to define 7 (+/- 2) subsystems/elements at each level. Of course, this is not always possible. Sometimes the number of elements is quite large. In such cases, the decomposition is presented in tabular or directory form.
 
-Often the diagram shows not only the system to be decomposed, but also the higher level (supersystem), which includes the system in question, and adjacent systems - other subsystems of the supersystem. Figure 2 shows the decomposition of System 1. In addition, the same diagram shows the super-system and the adjacent system 2.
+Often the diagram shows not only the system to be decomposed, but also the higher level (supersystem), which includes the system in question, and adjacent systems — other subsystems of the supersystem. Figure 2 shows the decomposition of System 1. In addition, the same diagram shows the super-system and the adjacent system 2.
 
 *Figure 1: Breakfast preparation decomposition*
 
@@ -262,11 +262,11 @@ Before carrying out the decomposition, define
 
 The answers to these questions will reveal the purpose and need for decomposition, and then you will determine the type of decomposition.
 
-P.S. A good decomposition is not always successful at the first try (to be more precise - it is rarely successful at the first try). A good solution comes with experience.
+P.S. A good decomposition is not always successful at the first try (to be more precise — it is rarely successful at the first try). A good solution comes with experience.
 
 **An example of how to create a decomposition using the Top-Bottom method**
 
-1. Define the top (root, zero) level of decomposition - the system to be decomposed. 
+1. Define the top (root, zero) level of decomposition — the system to be decomposed. 
 2. Select several criteria (two to three) to separate the first level subsystems corresponding to the decomposition goal.
 3. Break down the root system for each criterion.
 4. Check that the decomposition rules are met for each criterion:
@@ -275,7 +275,7 @@ P.S. A good decomposition is not always successful at the first try (to be more 
    - The parts of the lower level are divided according to a single criterion;
    - The parts do not overlap with each other.
 5. Compare the results of the breakdown according to the selected criteria, choose the best one considering further actions.
-6. Repeat steps 2 - 5 for each subsystem of the first level and all subsequent levels.
+6. Repeat steps 2-5 for each subsystem of the first level and all subsequent levels.
 7. Stop at a level that is sufficient for those who will be working with the selected elements (functions, jobs, or objects).
 
 ## Chapter IV <div id="chapter-iv"></div>
@@ -338,9 +338,9 @@ The first step was to collect orders from stores and caterers in any way possibl
 3. Indicate the purpose of the demographic pyramid.
 4. Determine the type of decomposition of the demographic pyramid.
 5. Specify:
-   - How many levels of decomposition it has;
-   - What are those levels?;
-   - What criteria are used to categorize each level.
+   - How many levels of decomposition has has?
+   - What are those levels?
+   - What criteria are used to categorize each level?
 6. Determine the order in which the demographic pyramid is constructed.
 7. Indicate your answers in the turn-in file ex03\_decomposition.docx.
 
@@ -392,6 +392,6 @@ The means of representing the decomposition is at your discretion.
 
 **Recommendations for the task:**
 
-There's no one right way to do a decomposition. You should always start with the goal, the needs of the user for whom you are creating the decomposition. Choose the type of decomposition based on this goal. Determine the activities based on the answers to the "Questions to Identify the Type of Decomposition". It is possible that the activities will be of different levels - at the stage of listing the activities this is normal. However, as you go on, it is important to look at the activities and rearrange them into levels according to the criteria.
+There's no one right way to do a decomposition. You should always start with the goal, the needs of the user for whom you are creating the decomposition. Choose the type of decomposition based on this goal. Determine the activities based on the answers to the "Questions to Identify the Type of Decomposition". It is possible that the activities will be of different levels — at the stage of listing the activities this is normal. However, as you go on, it is important to look at the activities and rearrange them into levels according to the criteria.
 
 Make sure that the elements at the same level are equivalent, answer the same question and are selected by the same criterion. They belong to that level, not to a higher or lower one. Make several choices and choose the one that best suits your goal, needs and circumstances.
